@@ -6,7 +6,16 @@ A MATLAB App Designer application for automated calibration of micro-XRF measure
 
 ## Interface
 
-![Micro-XRF App: Set Calibration interface](docs/images/Set_Calibration_Panel.svg)
+### Set Calibration
+![Micro-XRF App: Set Calibration tab](docs/images/Set_Calibration_Panel.svg)
+### View Data
+![Micro-XRF App: View Data tab](docs/images/ViewData_Ca_Log_ROI_2sigma.svg)
+### Energy Calibration
+![Micro-XRF App: Energy Calibration tab](docs/images/EnergyCalib_results.svg)
+### FWHM Calibration
+![Micro-XRF App: Energy Calibration tab](docs/images/FWHMCalib_results.svg)
+### FWHM Calibration
+![Micro-XRF App: Sensitivity results tab](docs/images/SensitivityCalib_Ka_results.svg)
 
 
 ## Main functionality
