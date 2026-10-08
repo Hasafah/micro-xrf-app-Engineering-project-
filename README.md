@@ -8,7 +8,6 @@ A MATLAB App Designer application for automated calibration of micro-XRF measure
 
 ![Micro-XRF App: Set Calibration interface](docs/images/Set_Calibration_Panel.svg)
 
-Interface figure reproduced from the accompanying manual.
 
 ## Main functionality
 
